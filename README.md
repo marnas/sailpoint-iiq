@@ -15,8 +15,8 @@ Container will run in background, IIQ will be run from mounted volume.
 
 Includes:
 
- - Oracle JDK 1.8.1xx (pulling latest version automatically)
- - Tomcat 8.5.29 (maybe you need to change this to current version)
+ - Openjdk JDK 1.8.1xx (pulling latest version automatically)
+ - Tomcat 8.5.41 (maybe you need to change this to current version)
  - Git, wget, curl, build-essential
  - mariadb database
  
