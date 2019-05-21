@@ -1,9 +1,9 @@
 FROM debian:jessie
 
-MAINTAINER Steffen Sperling <steffen.sperling@ventum.com>
+MAINTAINER Marco Santonastaso <m.santonastaso@protonmail.com>
 
-ENV TOMCAT_VERSION 8.5.29
-ENV IIQ_VERSION 7.2
+ENV TOMCAT_VERSION 8.5.34
+ENV IIQ_VERSION 7.3
 
 # Fix sh
 RUN rm /bin/sh && ln -s /bin/bash /bin/sh
